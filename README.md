@@ -24,7 +24,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
-  <a href="https://www.codegrepper.com/app/profile.php?id=79189">
+  <a href="https://www.codegrepper.com/profile/stormy-spider-1ppdvyqxrlyi">
   <img align="center" 
        alt="Grepper" 
        width="22px" 
