@@ -31,7 +31,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
   </a>
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+<a href="https://stackoverflow.com/users/20551516/michelley16-tech">
   <img align="center" 
        alt="Stack Overflow" 
        width="22px" 
